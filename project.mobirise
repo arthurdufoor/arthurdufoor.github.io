@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Arthur Dufoor",
-    "currentPage": "page3.html",
+    "currentPage": "page6.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 95,
     "versionPublish": "4.6.7",
@@ -89,7 +89,7 @@
             "overlayOpacity": 0.6
           },
           "title": "<br>Arthur Dufoor<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1846501970648134342_3968403877\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1908061751984057959_3968403877\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
           "display2": "display-1",
           "display4": "display-4",
           "alias": "instagram-feed",
